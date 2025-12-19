@@ -74,7 +74,7 @@ table(final_barcodes$definition)
 # 6. Filter Out Metastatic Samples
 ##############################
 hnsc_no_metastatic <- hnsc.tcga.data[, hnsc.tcga.data$definition != "Metastatic"]
-table(hnsc_no_metastatic$definition)  # Verify removal
+table(hnsc_no_metastatic$definition)  # Verify 454
 
 ##############################
 # 7. Extract Counts Matrix
