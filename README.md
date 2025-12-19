@@ -195,10 +195,6 @@ python scripts/ml_pipeline_advanced.py \
 - Calcium signaling
 - Muscle contraction
 
-#### Detailed GO and KEGG Analysis
-![Upregulated GO Terms](results/plots/WhatsAppImage2025-12-19at05.29.42(2).jpeg)
-
-![Downregulated GO Terms](results/plots/WhatsAppImage2025-12-19at05.29.42(1).jpeg)
 
 ## Machine Learning Model Performance
 
